@@ -1,8 +1,8 @@
 {
-  "zip_sha256": "e8e9cfcf4d5d8aa08a5011fafa87c33313d10ddbe03521c7eefcc64d0503bcf5",
-  "launcher_url": "https://github.com/bodyqulll/ayoma-releases/releases/download/v1.1.8/ayoma-launcher.exe",
-  "tag": "v1.1.8",
-  "zip_url": "https://github.com/bodyqulll/ayoma-releases/releases/download/v1.1.8/ayoma-1.1.8.zip",
-  "launcher_sha256": "f361631d12d21feda6c6574ad8cc372af5f2ccb05d6a5b11e69358d05fd31e2f",
-  "version": "1.1.8"
+  "zip_sha256": "585dd50cf0e3cb1f35641a77aa3a7f1b167e24ae7d3df2d6510fa09704ff33ef",
+  "launcher_sha256": "b38948f8dc358b1940849d074c14dbb7deaf2f0e295260e86a1d6c6d9bf442fb",
+  "launcher_url": "https://github.com/bodyqulll/ayoma-releases/releases/download/v1.1.9/ayoma-launcher.exe",
+  "tag": "v1.1.9",
+  "version": "1.1.9",
+  "zip_url": "https://github.com/bodyqulll/ayoma-releases/releases/download/v1.1.9/ayoma-1.1.9.zip"
 }
